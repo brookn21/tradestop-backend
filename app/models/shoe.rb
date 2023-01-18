@@ -1,0 +1,4 @@
+class Shoe < ApplicationRecord
+
+    
+end
